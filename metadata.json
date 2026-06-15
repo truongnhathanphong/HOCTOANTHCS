@@ -1,6 +1,6 @@
 {
-  "name": "Học Toán THCS",
-  "description": "Ứng dụng hỗ trợ học toán Trung học cơ sở (Lớp 6-9) với kho chủ đề đầy đủ, bài tập thực hành phong phú và Gia sư AI hướng dẫn giải chi tiết từng bước.",
+  "name": "Math Junior",
+  "description": "Interactive Vietnamese secondary school math learning companion and homework assistant.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
